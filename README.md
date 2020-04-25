@@ -7,4 +7,4 @@
 <br>
 以下のYoutubeで学んだ。  
 <br> 
-https://yoshi-cow.github.io/feature_selection.github.io/LDA_and_PCA.html
+https://www.youtube.com/watch?v=kA4mD3y4aqA&list=PLc2rvfiptPSQYzmDIFuq2PqN2n28ZjxDH
